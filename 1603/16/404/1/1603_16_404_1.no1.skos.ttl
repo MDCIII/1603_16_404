@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,235 +26,282 @@
 <urn:mdciii:1603:16:404:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:1" ;
-    skos:prefLabel "Mombasa"@eng-Latn .
+    skos:prefLabel "Mombasa"@eng-Latn ;
+    wdata:q7200235 "KE001" .
 
 <urn:mdciii:1603:16:404:1:10>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:10" ;
-    skos:prefLabel "Marsabit"@eng-Latn .
+    skos:prefLabel "Marsabit"@eng-Latn ;
+    wdata:q7200235 "KE010" .
 
 <urn:mdciii:1603:16:404:1:11>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:11" ;
-    skos:prefLabel "Isiolo"@eng-Latn .
+    skos:prefLabel "Isiolo"@eng-Latn ;
+    wdata:q7200235 "KE011" .
 
 <urn:mdciii:1603:16:404:1:12>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:12" ;
-    skos:prefLabel "Meru"@eng-Latn .
+    skos:prefLabel "Meru"@eng-Latn ;
+    wdata:q7200235 "KE012" .
 
 <urn:mdciii:1603:16:404:1:13>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:13" ;
-    skos:prefLabel "Tharaka-Nithi"@eng-Latn .
+    skos:prefLabel "Tharaka-Nithi"@eng-Latn ;
+    wdata:q7200235 "KE013" .
 
 <urn:mdciii:1603:16:404:1:14>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:14" ;
-    skos:prefLabel "Embu"@eng-Latn .
+    skos:prefLabel "Embu"@eng-Latn ;
+    wdata:q7200235 "KE014" .
 
 <urn:mdciii:1603:16:404:1:15>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:15" ;
-    skos:prefLabel "Kitui"@eng-Latn .
+    skos:prefLabel "Kitui"@eng-Latn ;
+    wdata:q7200235 "KE015" .
 
 <urn:mdciii:1603:16:404:1:16>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:16" ;
-    skos:prefLabel "Machakos"@eng-Latn .
+    skos:prefLabel "Machakos"@eng-Latn ;
+    wdata:q7200235 "KE016" .
 
 <urn:mdciii:1603:16:404:1:17>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:17" ;
-    skos:prefLabel "Makueni"@eng-Latn .
+    skos:prefLabel "Makueni"@eng-Latn ;
+    wdata:q7200235 "KE017" .
 
 <urn:mdciii:1603:16:404:1:18>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:18" ;
-    skos:prefLabel "Nyandarua"@eng-Latn .
+    skos:prefLabel "Nyandarua"@eng-Latn ;
+    wdata:q7200235 "KE018" .
 
 <urn:mdciii:1603:16:404:1:19>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:19" ;
-    skos:prefLabel "Nyeri"@eng-Latn .
+    skos:prefLabel "Nyeri"@eng-Latn ;
+    wdata:q7200235 "KE019" .
 
 <urn:mdciii:1603:16:404:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:2" ;
-    skos:prefLabel "Kwale"@eng-Latn .
+    skos:prefLabel "Kwale"@eng-Latn ;
+    wdata:q7200235 "KE002" .
 
 <urn:mdciii:1603:16:404:1:20>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:20" ;
-    skos:prefLabel "Kirinyaga"@eng-Latn .
+    skos:prefLabel "Kirinyaga"@eng-Latn ;
+    wdata:q7200235 "KE020" .
 
 <urn:mdciii:1603:16:404:1:21>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:21" ;
-    skos:prefLabel "Murang'a"@eng-Latn .
+    skos:prefLabel "Murang'a"@eng-Latn ;
+    wdata:q7200235 "KE021" .
 
 <urn:mdciii:1603:16:404:1:22>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:22" ;
-    skos:prefLabel "Kiambu"@eng-Latn .
+    skos:prefLabel "Kiambu"@eng-Latn ;
+    wdata:q7200235 "KE022" .
 
 <urn:mdciii:1603:16:404:1:23>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:23" ;
-    skos:prefLabel "Turkana"@eng-Latn .
+    skos:prefLabel "Turkana"@eng-Latn ;
+    wdata:q7200235 "KE023" .
 
 <urn:mdciii:1603:16:404:1:24>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:24" ;
-    skos:prefLabel "West Pokot"@eng-Latn .
+    skos:prefLabel "West Pokot"@eng-Latn ;
+    wdata:q7200235 "KE024" .
 
 <urn:mdciii:1603:16:404:1:25>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:25" ;
-    skos:prefLabel "Samburu"@eng-Latn .
+    skos:prefLabel "Samburu"@eng-Latn ;
+    wdata:q7200235 "KE025" .
 
 <urn:mdciii:1603:16:404:1:26>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:26" ;
-    skos:prefLabel "Trans Nzoia"@eng-Latn .
+    skos:prefLabel "Trans Nzoia"@eng-Latn ;
+    wdata:q7200235 "KE026" .
 
 <urn:mdciii:1603:16:404:1:27>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:27" ;
-    skos:prefLabel "Uasin Gishu"@eng-Latn .
+    skos:prefLabel "Uasin Gishu"@eng-Latn ;
+    wdata:q7200235 "KE027" .
 
 <urn:mdciii:1603:16:404:1:28>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:28" ;
-    skos:prefLabel "Elgeyo-Marakwet"@eng-Latn .
+    skos:prefLabel "Elgeyo-Marakwet"@eng-Latn ;
+    wdata:q7200235 "KE028" .
 
 <urn:mdciii:1603:16:404:1:29>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:29" ;
-    skos:prefLabel "Nandi"@eng-Latn .
+    skos:prefLabel "Nandi"@eng-Latn ;
+    wdata:q7200235 "KE029" .
 
 <urn:mdciii:1603:16:404:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:3" ;
-    skos:prefLabel "Kilifi"@eng-Latn .
+    skos:prefLabel "Kilifi"@eng-Latn ;
+    wdata:q7200235 "KE003" .
 
 <urn:mdciii:1603:16:404:1:30>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:30" ;
-    skos:prefLabel "Baringo"@eng-Latn .
+    skos:prefLabel "Baringo"@eng-Latn ;
+    wdata:q7200235 "KE030" .
 
 <urn:mdciii:1603:16:404:1:31>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:31" ;
-    skos:prefLabel "Laikipia"@eng-Latn .
+    skos:prefLabel "Laikipia"@eng-Latn ;
+    wdata:q7200235 "KE031" .
 
 <urn:mdciii:1603:16:404:1:32>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:32" ;
-    skos:prefLabel "Nakuru"@eng-Latn .
+    skos:prefLabel "Nakuru"@eng-Latn ;
+    wdata:q7200235 "KE032" .
 
 <urn:mdciii:1603:16:404:1:33>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:33" ;
-    skos:prefLabel "Narok"@eng-Latn .
+    skos:prefLabel "Narok"@eng-Latn ;
+    wdata:q7200235 "KE033" .
 
 <urn:mdciii:1603:16:404:1:34>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:34" ;
-    skos:prefLabel "Kajiado"@eng-Latn .
+    skos:prefLabel "Kajiado"@eng-Latn ;
+    wdata:q7200235 "KE034" .
 
 <urn:mdciii:1603:16:404:1:35>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:35" ;
-    skos:prefLabel "Kericho"@eng-Latn .
+    skos:prefLabel "Kericho"@eng-Latn ;
+    wdata:q7200235 "KE035" .
 
 <urn:mdciii:1603:16:404:1:36>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:36" ;
-    skos:prefLabel "Bomet"@eng-Latn .
+    skos:prefLabel "Bomet"@eng-Latn ;
+    wdata:q7200235 "KE036" .
 
 <urn:mdciii:1603:16:404:1:37>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:37" ;
-    skos:prefLabel "Kakamega"@eng-Latn .
+    skos:prefLabel "Kakamega"@eng-Latn ;
+    wdata:q7200235 "KE037" .
 
 <urn:mdciii:1603:16:404:1:38>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:38" ;
-    skos:prefLabel "Vihiga"@eng-Latn .
+    skos:prefLabel "Vihiga"@eng-Latn ;
+    wdata:q7200235 "KE038" .
 
 <urn:mdciii:1603:16:404:1:39>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:39" ;
-    skos:prefLabel "Bungoma"@eng-Latn .
+    skos:prefLabel "Bungoma"@eng-Latn ;
+    wdata:q7200235 "KE039" .
 
 <urn:mdciii:1603:16:404:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:4" ;
-    skos:prefLabel "Tana River"@eng-Latn .
+    skos:prefLabel "Tana River"@eng-Latn ;
+    wdata:q7200235 "KE004" .
 
 <urn:mdciii:1603:16:404:1:40>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:40" ;
-    skos:prefLabel "Busia"@eng-Latn .
+    skos:prefLabel "Busia"@eng-Latn ;
+    wdata:q7200235 "KE040" .
 
 <urn:mdciii:1603:16:404:1:41>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:41" ;
-    skos:prefLabel "Siaya"@eng-Latn .
+    skos:prefLabel "Siaya"@eng-Latn ;
+    wdata:q7200235 "KE041" .
 
 <urn:mdciii:1603:16:404:1:42>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:42" ;
-    skos:prefLabel "Kisumu"@eng-Latn .
+    skos:prefLabel "Kisumu"@eng-Latn ;
+    wdata:q7200235 "KE042" .
 
 <urn:mdciii:1603:16:404:1:43>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:43" ;
-    skos:prefLabel "Homa Bay"@eng-Latn .
+    skos:prefLabel "Homa Bay"@eng-Latn ;
+    wdata:q7200235 "KE043" .
 
 <urn:mdciii:1603:16:404:1:44>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:44" ;
-    skos:prefLabel "Migori"@eng-Latn .
+    skos:prefLabel "Migori"@eng-Latn ;
+    wdata:q7200235 "KE044" .
 
 <urn:mdciii:1603:16:404:1:45>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:45" ;
-    skos:prefLabel "Kisii"@eng-Latn .
+    skos:prefLabel "Kisii"@eng-Latn ;
+    wdata:q7200235 "KE045" .
 
 <urn:mdciii:1603:16:404:1:46>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:46" ;
-    skos:prefLabel "Nyamira"@eng-Latn .
+    skos:prefLabel "Nyamira"@eng-Latn ;
+    wdata:q7200235 "KE046" .
 
 <urn:mdciii:1603:16:404:1:47>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:47" ;
-    skos:prefLabel "Nairobi"@eng-Latn .
+    skos:prefLabel "Nairobi"@eng-Latn ;
+    wdata:q7200235 "KE047" .
 
 <urn:mdciii:1603:16:404:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:5" ;
-    skos:prefLabel "Lamu"@eng-Latn .
+    skos:prefLabel "Lamu"@eng-Latn ;
+    wdata:q7200235 "KE005" .
 
 <urn:mdciii:1603:16:404:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:6" ;
-    skos:prefLabel "Taita Taveta"@eng-Latn .
+    skos:prefLabel "Taita Taveta"@eng-Latn ;
+    wdata:q7200235 "KE006" .
 
 <urn:mdciii:1603:16:404:1:7>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:7" ;
-    skos:prefLabel "Garissa"@eng-Latn .
+    skos:prefLabel "Garissa"@eng-Latn ;
+    wdata:q7200235 "KE007" .
 
 <urn:mdciii:1603:16:404:1:8>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:8" ;
-    skos:prefLabel "Wajir"@eng-Latn .
+    skos:prefLabel "Wajir"@eng-Latn ;
+    wdata:q7200235 "KE008" .
 
 <urn:mdciii:1603:16:404:1:9>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:404:1:9" ;
-    skos:prefLabel "Mandera"@eng-Latn .
+    skos:prefLabel "Mandera"@eng-Latn ;
+    wdata:q7200235 "KE009" .
 
